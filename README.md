@@ -1,4 +1,4 @@
-# Palindromo
+# Palindrome
 
 Simple App made in Kotlin, this App verifies if the typed word is palindrome
 
